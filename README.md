@@ -1,4 +1,4 @@
-#Deep Learning Foundation
+# Deep Learning Foundation
 ## Neural Networks and Deep Learning
 1. Logistic Regression
 2. Neural Network
